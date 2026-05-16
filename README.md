@@ -62,23 +62,26 @@ Using the power budget equation and the parameters below, determine the attenuat
 2. Set the fiber length to **125% of the calculated pre-lab value** and repeat the simulation and data recording.  
 
 ---
+# TABULATION
+<img width="1024" height="684" alt="WhatsApp Image 2026-05-16 at 1 13 21 PM" src="https://github.com/user-attachments/assets/8e97dc9e-8460-40b4-8757-e63224719e8f" />
+
+# LOW NOISE FOR 2.5GB
+<img width="1032" height="779" alt="Screenshot 2026-05-16 131548" src="https://github.com/user-attachments/assets/a41ea770-7da4-400e-aa98-c0856730f89d" />
+
+# HIGH NOISE 
+<img width="1600" height="900" alt="WhatsApp Image 2026-05-15 at 10 02 50 PM" src="https://github.com/user-attachments/assets/86debd34-2778-4774-8180-ccb2bf2d1685" />
+# TABULATION FOR 10GB
+<img width="899" height="1599" alt="WhatsApp Image 2026-05-16 at 1 12 59 PM" src="https://github.com/user-attachments/assets/eb3f455a-be4f-4578-8fbd-93f7bae61c90" />
+# low noise for 10GB
+<img width="552" height="411" alt="Screenshot 2026-05-16 132317" src="https://github.com/user-attachments/assets/3cd2a023-dfac-4ecb-8685-ef92826e8551" />
+
+# high noise 
+<img width="1029" height="778" alt="Screenshot 2026-05-16 132734" src="https://github.com/user-attachments/assets/98db50b7-d285-4b1b-a9c1-7bc73676bf55" />
+
 
 ## Analysis and Report
 Compare simulation results with pre-lab calculations and record observations.  
 
-Your report should contain:
-- **Cover Page**
-  - Title of the lab  
-  - Course name and number  
-  - Your name  
-
-- **Pre-lab Calculations**  
-
-- **Screenshots** of layout and results (including eye diagrams)  
-
-- **Summary Table** for each simulation:
-  | Fiber Length (km) | Received Power (dBm) | Q Factor | BER |
-  |-------------------|-----------------------|----------|-----|
-  
-
-- **Written Summary** of observations and explanations of differences.  
+Result
+Thus the attenuation-limited fiber length based on the power budget equation is successfully simulated and verified.
+ 
